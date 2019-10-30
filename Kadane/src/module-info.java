@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dovyd
+ *
+ */
+module Kadane {
+}
